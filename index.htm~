@@ -21,7 +21,7 @@
   	<ul id="menu">
     	<li><a href="index.htm" class="active">Home</a></li>
         <li><a href="portfolio.htm" class="focus">Portfolio</a></li>
-        <li><a href="servis.htm" class="focus">Service & Pricing</a></li>
+        <li><a href="servis.htm" class="focus">Servis & Pricing</a></li>
         <li><a href="blog.htm" class="focus">Blog</a></li>
         <li><a href="aboutus.htm" class="focus">About Us</a></li>
     </ul>
